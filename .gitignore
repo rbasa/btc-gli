@@ -1,0 +1,18 @@
+.DS_Store
+
+# Python / venv
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Office temp files
+~$*.xlsx
+~$*.docx
+
+# Documents (optional; keep repo code-focused)
+*.docx
+
